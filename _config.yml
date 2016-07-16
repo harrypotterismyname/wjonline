@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
+title:        Workjoy
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Fountainhead
+  url:        https://join.Workjoy.online
 
 # Gems
 gems:
